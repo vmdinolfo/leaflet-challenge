@@ -1,5 +1,7 @@
 # leaflet-challenge
 
+## finished webpage: https://vmdinolfo.github.io/leaflet-challenge/
+
 ## contained in this file are the html and javascript leaflet code required to populate a webpage showing earthquake occurences around the world.
 ### index.html for the html
 ### logic.js for the leaflet js
